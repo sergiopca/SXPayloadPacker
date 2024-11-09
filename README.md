@@ -1,5 +1,5 @@
 # SXPayloadPacker
-A payload packer that creates a _boot.dat_ file that can be used to boot a Switch with the SX dongle
+A payload packer that creates a _boot.dat_ file that can be used to boot with the SX dongle
 
 
 ![sxp](https://github.com/user-attachments/assets/ce0c9699-fe11-4646-a2a1-0e92912e37bb)
